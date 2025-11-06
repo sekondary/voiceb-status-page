@@ -18,12 +18,13 @@ status-website:
   name: VoiceB
   introTitle: ""
   introMessage: ""
-  theme: dark
+  theme: night
   logoUrl: https://www.voiceb.ai/lovable-uploads/5c17062a-7451-4cc7-81be-f0b18b6e5e25.png
   navbar:
     - title: Status
       href: /
     - title: VoiceB
       href: https://www.voiceb.ai
+  footer: ""
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
