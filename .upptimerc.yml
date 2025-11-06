@@ -25,7 +25,8 @@ status-website:
       href: /
     - title: VoiceB
       href: https://www.voiceb.ai
-  footer: ""
+i18n:
+  footer: Powered by [Upptime](https://upptime.js.org)
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
