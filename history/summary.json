@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.voiceb.ai.ico",
     "slug": "web",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 378,
-    "timeDay": 240,
-    "timeWeek": 378,
-    "timeMonth": 378,
-    "timeYear": 378,
-    "dailyMinutesDown": {
-      "2025-11-08": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 361,
+    "timeDay": 270,
+    "timeWeek": 361,
+    "timeMonth": 361,
+    "timeYear": 361,
+    "dailyMinutesDown": {}
   },
   {
     "name": "App",
@@ -25,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.voiceb.ai.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 437,
-    "timeDay": 313,
-    "timeWeek": 437,
-    "timeMonth": 437,
-    "timeYear": 437,
-    "dailyMinutesDown": {
-      "2025-11-08": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 442,
+    "timeDay": 425,
+    "timeWeek": 442,
+    "timeMonth": 442,
+    "timeYear": 442,
+    "dailyMinutesDown": {}
   }
 ]
