@@ -4,7 +4,7 @@
     "url": "https://www.voiceb.ai",
     "icon": "https://icons.duckduckgo.com/ip3/www.voiceb.ai.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 353,
     "timeYear": 365,
     "dailyMinutesDown": {
+      "2025-12-12": 0,
       "2025-11-18": 28
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://app.voiceb.ai",
     "icon": "https://icons.duckduckgo.com/ip3/app.voiceb.ai.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 425,
     "timeYear": 426,
     "dailyMinutesDown": {
+      "2025-12-12": 0,
       "2025-11-18": 28
     }
   }
